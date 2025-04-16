@@ -4,7 +4,7 @@ El API permite el registro de nuevos usuarios y su identificación mediante emai
 Una vez identificados, se emplea una cookie de sesión para autenticar las peticiones que permiten 
 a los usuarios leer, modificar y borrar sus datos. También existe un endpoint para cerrar la sesión.  
 
-## Endpoints
+## Endpoints de la API
 
 // TODO#1: rellena la tabla siguiente analizando el código del proyecto
 
